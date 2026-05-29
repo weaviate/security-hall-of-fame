@@ -11,3 +11,7 @@ opa-debug-js
 *.api-txt
 *.exe
 *.log
+
+# HackerOne export — contains report titles, severity, bounties, CVEs; do not publish
+export.csv
+*.csv
