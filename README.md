@@ -12,7 +12,7 @@ Listed in reverse chronological order by report date. Categories use the
 | # | Date | Researcher | Category |
 |---:|------|------------|----------|
 | 1 | 2026-09-12 | ankith-b | Missing Authentication |
-| 2 | 2026-08-25 | mra1371 | Server-Side Request Forgery (SSRF) |
+| 2 | 2026-08-25 | Syed Anas Mohiuddin | Server-Side Request Forgery (SSRF) |
 | 3 | 2026-08-23 | civitassmass | Missing Authorization |
 | 4 | 2026-07-17 | kta1kri | Path Traversal |
 | 5 | 2026-05-29 | duongtt | Server-Side Request Forgery (SSRF) |
