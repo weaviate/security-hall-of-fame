@@ -69,7 +69,7 @@ Listed in reverse chronological order by report date. Categories use the
 
 With our thanks, in alphabetical order:
 
-1mm4nu3l, 4bh1_y, ankith-b, ansariosama, ashikmd7, barakat, basyounii0, beepi1, blackangel1, c0nyyy, callgh0st, civitassmass, cyberheroesalighar, duongtt, faizan_kolega_dev, garry_sec, groeneappel, happy-comet-73, hassanahmed007, jorsec, kta1kri, kun2121, m0ndy4aa, MiguelC, mikolysz, mra1371, naveenventure, oli, r0074g3n722, revengerali2o, revengerali2oo, savan-025, shadowbyte--, soohyun, spell1, spir0s, ulldma, yardenporat
+1mm4nu3l, 4bh1_y, ankith-b, ansariosama, ashikmd7, barakat, basyounii0, beepi1, blackangel1, c0nyyy, callgh0st, civitassmass, cyberheroesalighar, duongtt, faizan_kolega_dev, garry_sec, groeneappel, happy-comet-73, hassanahmed007, jorsec, kta1kri, kun2121, m0ndy4aa, MiguelC, mikolysz, naveenventure, oli, r0074g3n722, revengerali2o, revengerali2oo, savan-025, shadowbyte--, soohyun, spell1, spir0s, Syed Anas Mohiuddin, ulldma, yardenporat
 
 ---
 
